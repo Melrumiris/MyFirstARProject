@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="5.0" toolVersion="2.8.1">
+        <ImageTarget targetSize="0.100000 0.172101" name="8oW" targetId="cea3cd86a7d64e80960cc512f3b4bc2e" version="2.6" toolVersion="2.8.1">
+            <UnpaddedImage size="185 320" />
+        </ImageTarget>
+        <ImageTarget targetSize="0.100000 0.175448" name="QoS" targetId="d7cf56f438de4a6891a4b69dcd025cfd" version="2.6" toolVersion="2.8.1">
+            <UnpaddedImage size="182 320" />
+        </ImageTarget>
+    </TargetSet>
+</QCARInfo>
