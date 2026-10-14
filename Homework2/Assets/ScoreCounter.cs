@@ -30,7 +30,7 @@ public class ScoreCounter : MonoBehaviour
     {
         float distance = Vector3.Distance(transform.position, playerHead.position);
         
-        int points = (int)distance;
+        int points = (int)(distance*2 - 3);
         
         totalScore += points;
         
